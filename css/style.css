@@ -46,3 +46,80 @@ nav .header-button {
   padding: 10px 30px;
   margin-left: 40px;
 }
+
+section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.section-img {
+  margin-top: 50px;
+  flex: 1;
+}
+
+.your-one-stop {
+  font-size: 20px;
+  padding: 50px;
+  /* background-color:red; */
+  flex: 1;
+}
+
+.your-one-stop-h1 {
+  color: #2977d2;
+  font-size: 36px;
+  /* background-color:red; */
+}
+
+.green-check1-container {
+  display: flex;
+  font-size: 20px;
+  align-items: center;
+}
+
+.green-check1-container p {
+  width: 40%;
+  line-height: 1.5em;
+  padding-left: 30px;
+}
+
+.green2-green3-container {
+  font-size: 20px;
+}
+
+.green2-green3-container p {
+  width: 40%;
+  line-height: 1.5em;
+  padding-left: 30px;
+}
+
+.green-check2 {
+  display: flex;
+  align-items: center;
+
+  /* background-color:green; */
+}
+
+.green-check3 {
+  display: flex;
+  align-items: center;
+}
+
+.green-check-buttons {
+  margin-top: 75px;
+}
+
+.green-button1 {
+  border: 1px solid #2977d2;
+  border-radius: 5px;
+  background-color: #2977d2;
+  color: white;
+  padding: 15px 75px;
+  margin-right: 50px;
+}
+
+.green-button2 {
+  border: 1px solid #2977d2;
+  color: #2977d2;
+  padding: 15px 75px;
+}

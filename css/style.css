@@ -121,5 +121,44 @@ section {
 .green-button2 {
   border: 1px solid #2977d2;
   color: #2977d2;
-  padding: 15px 75px;
+  padding: 15px 65px;
+}
+
+.our-platform-header{
+  text-align: center;
+}
+
+.our-platform-header h3{
+ color: #2F80ED;
+}
+
+.our-platform-header h1{
+  width:40%;
+  margin: 0 auto;
+  color: #3D3A39;
+}
+
+.our-platform-section1-container{
+  display: flex;
+  width:65%;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+.our-platform-section1-image{
+  /* width:65%;
+  margin: 0 auto; */
+}
+
+.our-platform-section1-text{
+  background-color: red;
+  padding: 0 20px 0px 20px;
+}
+
+.our-platform-section1-text h3{
+  color: #2F80ED;
+}
+
+.our-platform-section1-text p{
+  color: rgba(10, 10, 11, 0.68)
 }
